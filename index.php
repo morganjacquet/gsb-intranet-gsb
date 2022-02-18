@@ -11,18 +11,10 @@
 </head>
 <body>
     <div class="container">
-        <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-        <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-            <img src="assets/img/logo-gsb.png" height="50">
-        </a>
-
-        <ul class="nav nav-pills">
-            <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Bienvenue</a></li>
-        </ul>
-        </header>
-
+        <h1 class="text-center" style="padding: 50px; color: green;">Vous êtes connecté au réseau GSB ! </h1>
         <div class="row">
             <div class="col-5 align-self-center">
+                <img src="assets/img/logo-gsb.png" height="100"><br><br>
                 <h3>Bienvenue sur le réseau GSB</h3>
                 <p>Le laboratoire Galaxy Swiss Bourdin (GSB) géant pharmaceutique leader de ce secteur industriel.</p>
             </div>
