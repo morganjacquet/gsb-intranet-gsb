@@ -16,8 +16,7 @@
             <div class="col-5 align-self-center">
                 <img src="assets/img/logo-gsb.png" height="100"><br><br>
                 <h3>Bienvenue sur le réseau GSB</h3>
-                <!--<p>Le laboratoire Galaxy Swiss Bourdin (GSB) géant pharmaceutique leader de ce secteur industriel.</p>-->
-                <p>Je suce des grosse bite ! </p>
+                <p>Le laboratoire Galaxy Swiss Bourdin (GSB) géant pharmaceutique leader de ce secteur industriel.</p>
             </div>
             <div class="col-7 text-center">
                 <img src="assets/img/banner.png" height="400">
